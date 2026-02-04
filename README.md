@@ -30,7 +30,7 @@ Git • Linux
 ### 📌 Featured Projects
 - **AI-Based Crop Disease Detection** – ML pipeline + mobile interface  
 - **Stock Prediction System** – Time-series forecasting + sentiment analysis  
-- **Student Performance Predictor** – Random Forest model + data insights  
+- [Student Performance Predictor](https://github.com/Viole-0/student_performance_predictor) – Random Forest model + data insights  
 - **Automation & Analytics Tools** – Experiments with AI utilities
 
 ---
