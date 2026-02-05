@@ -1,4 +1,4 @@
-# Hi, I'm V 👋  
+# Hi, I'm Mihir 👋  
 AI/ML Enthusiast • Exploring intelligence through code
 
 I'm passionate about building intelligent systems, experimenting with machine learning, and turning ideas into clean, functional, and scalable projects.
