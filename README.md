@@ -35,6 +35,9 @@ Git • Linux
 
 ---
 
+### 🔮 Featured Apps
+- [Document Summoner](https://github.com/Viole-0/documentation-summoner) - Automated documentation generation for GitHub repositories
+
 ### 📫 Connect
 If you're building something interesting in AI or want to collaborate, feel free to reach out.
 
