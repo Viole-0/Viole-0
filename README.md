@@ -30,7 +30,8 @@ Git • Linux
 ### 📌 Featured Projects
 - **AI-Based Crop Disease Detection** – ML pipeline + mobile interface  
 - **Stock Prediction System** – Time-series forecasting + sentiment analysis  
-- [Student Performance Predictor](https://github.com/Viole-0/student_performance_predictor) – Random Forest model + data insights  
+- [Student Performance Predictor](https://github.com/Viole-0/student_performance_predictor) – Random Forest model + data insights
+- [Multi-Agent RAG Intelligence Platform](https://github.com/Viole-0/multi-agent-rag-platform) - Multi-agent intelligence for analysis and forecasting.  
 - **Automation & Analytics Tools** – Experiments with AI utilities
 
 ---
